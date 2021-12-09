@@ -1,0 +1,66 @@
+const express = require('express')
+const fs = require('fs')
+const __path = process.cwd();
+const router = express.Router();
+const asmaulhusna = require('../lib/asmaulhusna.json')
+
+loghandler = {
+     notsaat: {
+        status: `error`,
+        author: `I T S U K I`,
+        message: `Masukan Parameter Saat Contoh: ?saat=shubuh`
+        }
+}
+
+router.get('/asmaulhusna', (req, res) => {
+let randomProperty = function(asmaulhusna) {
+    let keys = Object.keys(asmaulhusna);
+    return asmaulhusna[keys[keys.length * Math.random() << 0]];
+ };
+let k, n = 0;
+JSON.stringify(asmaulhusna, (key, value) => (key && ++n || value));
+n *= Math.random();
+JSON.stringify(asmaulhusna, (key, value) => (key && --n | 0 || (k = key) || value));
+res.json(asmaulhusna[k]);
+});
+router.get('/asmaulhusna2', (req, res) => {
+	res.json(asmaulhusna);
+});
+router.get('/niatsholat', (req, res) => {
+    niatsholat = require('../lib/niatsholat.json')
+    hasil = niatsholat.niatsholat
+    res.json({
+       status: 200,
+       creator: `ITSUKI`,
+       result: hasil
+  })
+});
+router.get('/niatsholat/shubuh', (req, res) => {
+    niatsholat = require('../lib/niatsholat.json')
+    hasil = niatsholat.niatsholat
+    res.json({
+       status: 200,
+       creator: `ITSUKI`,
+       result: hasil.shubuh
+  })
+});
+router.get('/niatsholat/dzuhur', (req, res) => {
+    niatsholat = require('../lib/niatsholat.json')
+    hasil = niatsholat.niatsholat
+    res.json({
+       status: 200,
+       creator: `ITSUKI`,
+       result: hasil.dzuhur
+  })
+});
+router.get('/niatsholat/ashar', (req, res) => {
+    niatsholat = require('../lib/niatsholat.json')
+    hasil = niatsholat.niatsholat
+    res.json({
+       status: 200,
+       creator: `ITSUKI`,
+       result: hasil.ashar
+  })
+});
+
+module.exports = router;

@@ -1,0 +1,89 @@
+{
+"niatsholat" : {
+      "shubuh" : {
+          "sendiri" : {
+             "arab" : "تَعَالَى لله أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعتَيْنِ الصُّبْح أُصَلِّى",
+             "latin" : "Ushallii fardash-Shubhi rak’ataini mustaqbilal qiblati adaa’an lillaahi ta’aalaa.",
+             "artinya" : "Saya (berniat) mengerjakan sholat fardhu Shubuh sebanyak dua raka’at dengan menghadap kiblat, karena Allah Ta’ala."
+             },
+          "makmum" : {
+             "arab" : "تَعَالَى لله مَأْمُوْمًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعتَيْنِ الصُّبْح فَرْضَ أُصَلِّى",
+             "latin" : "Ushallii fardhash-Shubhi rak’ataini mustaqbilal qiblati makmuuman lillaahi ta’aalaa.",
+             "artinya" : "Saya (berniat) mengerjakan sholat fardhu Shubuh sebanyak dua raka’at dengan menghadap kiblat, sebagai makmum, karena Allah Ta’ala."
+             },
+          "imam" : {
+             "arab" : "تَعَالَى لله إِمَامًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعتَيْنِ الصُّبْ فَرْضَح أُصَلِّى",
+             "latin" : "Ushallii fardash-Shubhi rak’ataini mustaqbilal qiblati imaaman lillaahi ta’aalaa.",
+             "artinya" : "Saya (berniat) mengerjakan sholat fardhu Shubuh sebanyak dua raka’at dengan menghadap kiblat, sebagai imam, karena Allah Ta’ala."
+             }
+          },
+      "dzuhur" : {
+          "sendiri" : {
+             "arab" : "تَعَالَى لله أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ أَرْبَعَ الظُّهْرِ فَرْضَ اُصَلِّيْ",
+             "latin" : "Usholli Fardlon dhuhri Arba'a Rok'aataim Mustaqbilal Qiblati Adaa-an Lillahi ta'aala",
+             "artinya" : "Aku niat melakukan sholat fardu dhuhur 4 rakaat, sambil menghadap qiblat, saat ini, karena Allah ta'ala"
+             },
+          "makmum" : {
+             "arab" : "تَعَالَى لله مَأْمُوْمًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ أَرْبَعَ الظُّهْرِ فَرْضَ اُصَلِّيْ",
+             "latin" : "Ushollii fardhodl dhuhri arba'a raka'aatim mustaqbilal qiblati adaa-an ma'muuman lillaahi ta'aala",
+             "artinya" : "Aku berniat shalat fardu Dhuhur empat raka'at menghadap kiblat sebagai ma'mum karena Allah Ta'ala."
+             },
+          "imam" : {
+             "arab" : "تَعَالَى لله اِمَامًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ أَرْبَعَ الظُّهْرِ فَرْضَ اُصَلِّيْ",
+             "latin" : "Ushalli fardhodl dhuhri arba’a raka’aatim mustaqbilal qiblati adaa-an imaaman lillaahi ta’aala",
+             "artinya" : "Aku berniat shalat fardhu Dzuhur empat raka’at menghadap kiblat sebagai imam karena Allah Ta’ala"
+             }
+          },
+      "ashar" : {
+          "sendiri" : {
+             "arab" : "تَعَالَى لله أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ العَصْرِأَرْبَعَ فَرْضَ أُصَلِّى",
+             "latin" : "ushalli fardhol 'ashri arba'a raka'aatin mustaqbilalqiblati adaan lillaahi ta'ala",
+             "artinya" : "Aku bernuat shalat fardhu ashar empat rakaat menghadap kiblat karena Allah Ta’ala"
+             },
+          "makmum" : {
+             "arab" : "تَعَالَى لله مَأْمُوْمًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ العَصْرِأَرْبَعَ فَرْضَ أُصَلِّى",
+             "latin" : "ushalli fardhol 'ashri arba'a raka'aatin mustaqbilalqiblati adaan makmuman lillaahi ta'ala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat sebagai makmum karena Allah Ta’ala"
+             },
+          "imam" : {
+             "arab" : "تَعَالَى لله إِمَامًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ العَصْرِأَرْبَعَ فَرْضَ أُصَلِّى",
+             "latin" : "ushalli fardhol 'ashri arba'a raka'aatin mustaqbilalqiblati adaan imaman lillaahi ta'ala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat sebagai imam karena Allah Ta’ala"
+             }
+          },
+     "maghrib" : {
+          "sendiri" : {
+             "arab" : "تَعَالَ لله أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ ثَلاَثَ المَغْرِبِ فَرْضَ أُصَلِّى",
+             "latin" : "Usholli Fardlol Maghribi Tsalaatsa Roka'aataim Mustaqbilal Qiblati Adaa-an Lillahi ta'aala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat karena Allah Ta’ala"
+             },
+          "makmum" : {
+             "arab" : "تَعَالَ لله مَأْمُوْمًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ ثَلاَثَ المَغْرِبِ فَرْضَ أُصَلِّى",
+             "latin" : "Usholli Fardlol Maghribi Tsalaatsa Roka'aataim Mustaqbilal Qiblati Adaa-an Makmuman Lillahi ta'aala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat sebagai makmuml karena Allah Ta’ala"
+             },
+          "imam" : {
+             "arab" : "تَعَالَ لله إِمَامًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ ثَلاَثَ المَغْرِبِ فَرْضَ أُصَلِّى",
+             "latin" : "Usholli Fardlol Maghribi Tsalaatsa Roka'aataim Mustaqbilal Qiblati Adaa-an Imaman Lillahi ta'aala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat sebagai imam karena Allah Ta’ala"
+             }
+          },
+      "isya" : {
+          "sendiri" : {
+             "arab" : "تَعَالَى لله أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ ِأَرْبَعَ العِشَاء فَرْضَ أُصَلِّى",
+             "latin" : "Usholli Fardlol I'syaa-i Arba'a Roka'aataim Mustaqbilal Qiblati Adaa-an Lillahi ta'aala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat karena Allah Ta’ala"
+             },
+          "makmum" : {
+             "arab" : "تَعَالَى لله مَأْمُوْمًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ ِأَرْبَعَ العِشَاء فَرْضَ أُصَلِّى",
+             "latin" : "Usholli Fardlol I'syaa-i Arba'a Roka'aataim Mustaqbilal Qiblati Adaa-an Makmuman Lillahi ta'aala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat sebagai makmum karena Allah Ta’ala"
+             },
+          "imam" : {
+             "arab" : "تَعَالَى لله إِمَامًا أَدَاءً الْقِبْلَةِ مُسْتَقْبِلَ رَكَعاَتٍ ِأَرْبَعَ العِشَاء فَرْضَ أُصَلِّى",
+             "latin" : "Usholli Fardlol I'syaa-i Arba'a Roka'aataim Mustaqbilal Qiblati Adaa-an Imaman Lillahi ta'aala",
+             "artinya" : "Aku berniat shalat fardhu ashar empat raka’at menghadap kiblat sebagai imam karena Allah Ta’ala"
+             }
+          }
+       }
+}

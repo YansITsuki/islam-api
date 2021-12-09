@@ -1,0 +1,47 @@
+{
+"status": 200,
+"creator": "I T S U K I",
+"github": "https://github.com/YusufGabut"
+"data": [
+    {
+        "number": 1,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnn0RYaYbz9kTJYsFUVq4aI9azWCEiegXUdQ&usqp=CAU"
+    },
+    {
+        "number": 2,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFP1k5MEvIMazc-AffVzUsQgLKJwz6iAf-w&usqp=CAU"
+    },
+    {
+        "number": 3,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeb0_MwkpTgSXVm8rQQK5bs1FpMrhs6ie7xw&usqp=CAU"
+    },
+    {
+        "number": 4,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwWXf4lKKl6MKDsDlbb59MVdm6qKEx5Zf7w&usqp=CAU"
+    },
+    {
+        "number": 5,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Q7p7DTGZOdrYwrQ2o1w0FO70x_9JsHs92Q&usqp=CAU"
+    },
+    {
+        "number": 6,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAz8z3g8TaECgAt2Nr5Y8_UiqA7gMiM436DQ&usqp=CAU"
+    },
+    {
+        "number": 7,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZ0bZqP9nRJmfFgQQPv9OcAS82PTQj7nkhg&usqp=CAU"
+    },
+    {
+        "number": 8,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uiaLhZynQ2tcxhHKfA84mdfzmlP6yM0-UA&usqp=CAU"
+    },
+    {
+        "number": 9,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5HJnUqNHNHLhAyIhtRsGmwveK-NoeZPAngg&usqp=CAU"
+    },
+    {
+        "number": 10,
+        "result": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdHkDgi_UVF_z5gkEmgwE9wfb-1fHpZ5FSQ&usqp=CAU"
+    }
+    ]
+}
